@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fátima ospina
+C.I: 27.334.025
+Sección 1
+Telecomunicaciones
+Universidad Nacional Experimental de Guayana
+Semestre 2023-I
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Capitulo 18
+Sistemas de comunicaciones electrónicas
+Cuarta edición
+Wayne Tomasi
+http://fernandoarciniega.com/books/sistemas-de-comunicaciones-electronicas-tomasi-4ta-edicion.pdf 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fatima.ospina@gmail.com](mailto:fatima.ospina@gmail.com)
