@@ -3,6 +3,8 @@ layout: post
 title: COMUNICACIONES SATELITALES
 ---
 
+# Satelites
+
 En términos astronómicos, un satélite es un cuerpo celeste que gira en órbita en torno a un planeta (por ejemplo, la Luna es un satélite de la Tierra). Sin embargo, en términos aeroespaciales
 un satélite es un vehículo espacial lanzado por humanos, que describe órbitas alrededor de la
 Tierra o de otro cuerpo celeste. Los satélites de comunicaciones son fabricados por el hombre y
