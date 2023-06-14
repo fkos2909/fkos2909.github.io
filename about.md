@@ -1,25 +1,25 @@
 ---
 layout: page
-title: About
+title: Autoria
 permalink: /about/
 ---
 
-Fátima ospina
-C.I: 27.334.025
-Sección 1
-Telecomunicaciones
-Universidad Nacional Experimental de Guayana
-Semestre 2023-I
+Fátima ospina \n
+C.I: 27.334.025 \n
+Sección 1 \n
+Telecomunicaciones \n
+Universidad Nacional Experimental de Guayana \n
+Semestre 2023-I \n
 
-### More Information
+### Más información
 
-Capitulo 18
-Sistemas de comunicaciones electrónicas
-Cuarta edición
-Wayne Tomasi
-http://fernandoarciniega.com/books/sistemas-de-comunicaciones-electronicas-tomasi-4ta-edicion.pdf 
+Capitulo 18 \n
+Sistemas de comunicaciones electrónicas \n
+Cuarta edición \n
+Wayne Tomasi \n
+http://fernandoarciniega.com/books/sistemas-de-comunicaciones-electronicas-tomasi-4ta-edicion.pdf  
 
 
-### Contact me
+### Contacto
 
 [fatima.ospina@gmail.com](mailto:fatima.ospina@gmail.com)
