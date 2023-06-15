@@ -14,10 +14,10 @@ Semestre 2023-I \
 ### Más información
 
 Capitulo 18 \
-Sistemas de comunicaciones electrónicas \
+[Sistemas de comunicaciones electrónicas](http://fernandoarciniega.com/books/sistemas-de-comunicaciones-electronicas-tomasi-4ta-edicion.pdf) \
 Cuarta edición \
 Wayne Tomasi \
-http://fernandoarciniega.com/books/sistemas-de-comunicaciones-electronicas-tomasi-4ta-edicion.pdf  
+ 
 
 
 ### Contacto
