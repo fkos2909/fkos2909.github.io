@@ -33,7 +33,6 @@ En los últimos 60 años, el uso de satélites se ha extendido rápidamente a un
 ![Satélite Telstar 1]({{ site.baseurl }}/images/Telstar1.png)
 
 El Syncom I se lanzó en febrero de 1963, y fue el primer intento de colocar en órbita un satélite geosincrónico. Desafortunadamente, se perdió durante su inyección en órbita; sin embargo, fueron lanzados con éxito el Syncom II y el Syncom III en febrero de 1963 y en agosto de 1964, respectivamente. El satélite Syncom II se usó en la transmisión de los Juegos Olímpicos de Tokio, en 1964. Los satélites Syncom demostraron la factibilidad de usar satélites geosíncronos. 
-![Satélite Syncom 1]({{ site.baseurl }}/images/syncom1.png)
 ![Satélite Syncom 2]({{ site.baseurl }}/images/syncom2.png)
 
 Desde entonces, el uso de satélites no ha hecho más que crecer. En la actualidad, hay más de 3.000 satélites en órbita alrededor de la Tierra, y se utilizan para una amplia gama de aplicaciones, como las comunicaciones, la navegación, la vigilancia meteorológica, la gestión de recursos y muchas otras.
@@ -48,7 +47,9 @@ El desarrollo de la tecnología de satélites también ha hecho posible el lanza
 
 Hasta el momento, se han destapado numerosos secretos del universo en constante expansión. Uno de los avances más impresionantes ha sido la identificación de una enorme de galaxias que existieron en los primeros momentos del universo, cuando este apenas tenía 600 millones de años. Este logro ha sido posible gracias al esfuerzo de destacados científicos, como Marcia Rieke de la Universidad de Arizona en Tucson, quien desvela el apasionante programa de investigación que se está llevando a cabo. La experta detalla que, entre las cuestiones que se plantean, destacan: “¿Cómo se ensamblaron las primeras galaxias?”, “Qué tan rápido formaron estrellas?” o “¿Por qué algunas galaxias dejan de formar estrellas?”. 
 
-![ la Nebulosa de Carina revela las fases más iniciales y rápidas de formación estelar que previamente habían estado ocultas. FOTO Cortesía Nasa ]({{ site.baseurl }}/images/nebulosa.png)
+![FOTO Cortesía Nasa ]({{ site.baseurl }}/images/nebulosa.png)
+
+la Nebulosa de Carina revela las fases más iniciales y rápidas de formación estelar que previamente habían estado ocultas.
 
 # LEYES DE KEPLER
 Las leyes del movimiento planetario de Kepler, llamadas así por , Johannes Kepler (1571-1630), astrónomo alemán, que descubrió las leyes que gobiernan el movimiento de los satélites, son tres leyes que describen el movimiento de los planetas alrededor del Sol. Estas leyes fueron descubiertas por Kepler a principios del siglo XVII y han tenido un profundo impacto en nuestra comprensión del sistema solar y de las leyes de la mecánica celeste. Las tres leyes de Kepler son: 
@@ -74,7 +75,7 @@ La terminología de pequeños satélites aún no está estandarizada, pero esta 
 
 Una norma de diseño específica para el desarrollo de nano-satélites es el CubeSat. Un CubeSats es un satélite  en  forma  de  cubo  de  diez  centímetros  en  su  arista,  cuyas  restricciones  de  diseño  son normalizadas y posee una masa no mayor a un kilogramo. El estándar fue desarrollado por un equipo conformado  por  la  Universidad  Politécnica  del  Estado  de  California y la  Universidad  de Stanford en EUA. El desarrollo de este tipo de plataformas ha abierto nuevas oportunidades  para  la  exploración  espacial  a  instituciones  académicas  y  países  en  desarrollo, disminuyendo el tiempo promedio de costo y desarrollo. 
 
-![Componentes estructurales del nanosatélite CubeSat]({{ site.baseurl }}/images/cube.png)
+![Componentes estructurales del nanosatélite CubeSat]({{ site.baseurl }}/images/cubesat.png)
 
 La comunicación por satélite es una de las aplicaciones más importantes de la tecnología de satélites. La comunicación por satélite ha desempeñado un papel fundamental en el acercamiento de personas de todo el mundo y ha transformado la forma en que la gente se comunica, trabaja y vive. 
 
