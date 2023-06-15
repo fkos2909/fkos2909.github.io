@@ -1,10 +1,11 @@
 ---
 layout: post
 title: COMUNICACIONES SATELITALES
+abstract: Un satélite de comunicaciones es un tipo de satélite artificial que se utiliza para transmitir y recibir señales de telecomunicaciones, como televisión, radio, teléfono y datos. Pueden colocarse en distintas órbitas en función de la aplicación y el uso previsto, y pueden clasificarse en varios tipos.
 ---
 
-En esencia, un satélite de comunicaciones es una repetidora de microondas en el cielo,
-formada por una diversa combinación de uno o más de los siguientes dispositivos: receptor, transmisor, regenerador, filtro, computadora de a bordo, multiplexor, demultiplexor, antena, guía de onda y casi cualquier otro circuito de comunicaciones electrónicas que se haya desarrollado.
+En terminos astronómicos un satélite es un cuerpo celeste que orbita entorno a un planeta, por ejemplo la Luna, pero en termino aeroespaciales un satélite es un objeto artificial que orbita alrededor de la Tierra. Se utilizan para la comunicación, la navegación, la vigilancia meteorológica, la gestión de recursos y muchos otros fines. En los inicios de la exploración espacial, los primeros satélites artificiales se lanzaron en la década de 1950. Hoy en día, hay miles de satélites artificiales orbitando la Tierra, y el uso de satélites se ha convertido en una parte esencial de la sociedad moderna, para todo, desde el GPS hasta la comunicación. \
+Un satélite de comunicaciones es un tipo de satélite artificial que se utiliza para transmitir y recibir señales de telecomunicaciones, como televisión, radio, teléfono y datos. Pueden colocarse en distintas órbitas en función de la aplicación y el uso previsto, y pueden clasificarse en varios tipos. Los satélites de comunicaciones son la espina dorsal de las telecomunicaciones modernas y prestan servicios como televisión por satélite, radio por satélite, Internet por satélite y telefonía por satélite. Son una parte importante de la infraestructura digital de las sociedades modernas.
 
 # Satelites
 
