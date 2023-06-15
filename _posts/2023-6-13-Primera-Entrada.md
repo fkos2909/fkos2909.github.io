@@ -33,6 +33,7 @@ En los últimos 60 años, el uso de satélites se ha extendido rápidamente a un
 ![Satélite Telstar 1]({{ site.baseurl }}/images/Telstar1.png)
 
 El Syncom I se lanzó en febrero de 1963, y fue el primer intento de colocar en órbita un satélite geosincrónico. Desafortunadamente, se perdió durante su inyección en órbita; sin embargo, fueron lanzados con éxito el Syncom II y el Syncom III en febrero de 1963 y en agosto de 1964, respectivamente. El satélite Syncom II se usó en la transmisión de los Juegos Olímpicos de Tokio, en 1964. Los satélites Syncom demostraron la factibilidad de usar satélites geosíncronos. 
+
 ![Satélite Syncom 2]({{ site.baseurl }}/images/syncom2.png)
 
 Desde entonces, el uso de satélites no ha hecho más que crecer. En la actualidad, hay más de 3.000 satélites en órbita alrededor de la Tierra, y se utilizan para una amplia gama de aplicaciones, como las comunicaciones, la navegación, la vigilancia meteorológica, la gestión de recursos y muchas otras.
