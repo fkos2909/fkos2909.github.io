@@ -95,7 +95,7 @@ Las ventajas y desventajas de los satélites geosíncronos son las siguientes:
 1. Los satélites geosíncronos están a gran altura e introducen **retardos de propagación mucho mayores**. El retardo de propagación de ida y vuelta entre dos estaciones terrestres, pasando por un satélite geosíncrono, es de 500 a 600 ms.
 2. Los satélites geosíncronos requieren **mayores potencias de transmisión y receptores más sensibles**, por las mayores distancias y mayores pérdidas en la trayectoria
 
-# SATELITE GEOESTACIONARIO SIMÓN BOLÍVAR
+# SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR
 
 El **29 de octubre de 2008**, despega al espacio, desde el centro de satélites de Xichang, ubicado en el sureste de China, el **Satélite Simón Bolívar**, el *primero que pondría en órbita **Venezuela*** para el desarrollo tecnológico y social de los pueblos. El satélite, conocido también con las siglas Venesat – 1, fue desarrollado gracias a la iniciativa del **Comandante Hugo Chávez**, con el objetivo de garantizarle a los venezolanos una tecnología de alta calidad.
 
