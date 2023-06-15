@@ -84,9 +84,7 @@ La comunicación por satelite permite proporcionar **cobertura en zonas donde no
 
 Los nanosatélites desempeñan un papel cada vez más importante en la exploración espacial moderna, ya que se utilizan cada vez más para la teledetección, la observación de la Tierra, la ciencia espacial y el desarrollo tecnológico. Los nanosatélites también pueden utilizarse para la comunicación, la navegación y la investigación científica, y tienen potencial para desempeñar un papel importante en la exploración espacial, con la posibilidad de ser utilizados para **misiones de exploración más allá de la órbita terrestre, como a Marte, la Luna o incluso más lejos**. 
 
-En términos de desarrollo tecnológico, los nanosatélites han ampliado los límites en áreas como los componentes miniaturizados, los sistemas integrados y la gestión de la energía. El uso de nanosatélites también ha llevado al desarrollo de innovadores sistemas de lanzamiento y estrategias de despliegue para hacerlos más accesibles y rentables. 
-
-La comunicación por satélite ha tenido un impacto significativo en la forma en que la gente trabaja, vive y se conecta. Ha transformado la forma de comunicarse y ha facilitado el acceso a la información a todo el mundo.
+En términos de desarrollo tecnológico, los nanosatélites han ampliado los límites en áreas como los componentes miniaturizados, los sistemas integrados y la gestión de la energía. El uso de nanosatélites también ha llevado al desarrollo de innovadores sistemas de lanzamiento y estrategias de despliegue para hacerlos más accesibles y rentables. La comunicación por satélite ha tenido un impacto significativo en la forma en que la gente trabaja, vive y se conecta. Ha transformado la forma de comunicarse y ha facilitado el acceso a la información a todo el mundo.
 
 
 
