@@ -18,16 +18,20 @@ Hay varios tipos de órbitas de satélite, que vienen determinadas por la altitu
 - Órbita terrestre baja (LEO): Se trata de una órbita circular o elíptica que se encuentra cerca de la superficie de la Tierra, con una altitud de unos cientos de kilómetros. Las LEO se utilizan principalmente para misiones de corta duración, como la vigilancia meteorológica o la teledetección.
 - Órbita terrestre media (MEO): Se trata de una órbita elíptica entre la GEO y la LEO, con una altitud de unos pocos miles de kilómetros. Las MEO se utilizan principalmente para servicios de comunicación y navegación, como la comunicación por satélite o el GPS.
 
+![Órbitas satelitales]({{ site.baseurl }}/images/2023-6-11/orbitas.png)
+
 Otros tipos de órbitas son la órbita terrestre alta (HEO), que está por encima de la GEO y se utiliza principalmente para la investigación científica, y la órbita lunar, que es la órbita alrededor de la Luna y se utiliza principalmente para la investigación científica y la exploración.
 
 La mayoría de los satélites de comunicaciones están en órbita geosíncrona. Los satélites geosíncronos o geoestacionarios son aquellos que giran en círculo con velocidad angular igual a la de la Tierra. Tienen un tiempo de órbita aproximado de 24 horas, igual que la Tierra; así, los satélites geosíncronos parecen estacionarios, porque quedan en una posición fija con respecto a determinado punto en la Tierra. 
 
 ### Trayectoreias orbitales de los satélites
-Las trayectorias orbitales de los satélites describen la trayectoria que sigue un satélite alrededor de la Tierra. Estas trayectorias pueden ser circulares, elípticas, inclinadas u otras formas más complejas. 
+Las trayectorias orbitales de los satélites describen la trayectoria que sigue un satélite alrededor de la Tierra. Estas trayectorias pueden ser circulares, elípticas u otras formas más complejas. Las tres trayectorias que puede seguir un satélite al girar en torno a la Tierra: inclinada, ecuatorial y polar. 
 
 - Las órbitas inclinadas son virtualmente todas, excepto las que van directamente arriba del ecuador o directamente arriba de los polos Norte y Sur.
 - Una órbita ecuatorial es cuando el satélite gira en órbita directamente arriba del ecuador, por lo general, en una trayectoria circular. En una órbita ecuatorial, el ángulo de inclinación es 0°. Todos los satélites geosíncronos están en órbitas ecuatoriales.
 - Una órbita polar es cuando el satélite gira en una trayectoria que lo hace pasar sobre los polos Norte y Sur, en una órbita perpendicular al plano ecuatorial. Los satélites de órbita polar siguen una trayectoria de baja altura, cercana a la Tierra, y que pasa sobre y muy cerca de los polos Norte y Sur. El ángulo de inclinación de un satélite en órbita polar es de casi 90°.
+
+![Trayectorias orbitales de los satélites]({{ site.baseurl }}/images/2023-6-11/trayectorias.png)
 
 En general, la trayectoria de un satélite viene determinada por la fuerza de la gravedad y la velocidad del satélite. Cuando un satélite es atraído hacia la Tierra, la fuerza de la gravedad hace que el satélite caiga hacia la Tierra. Sin embargo, si el satélite tiene suficiente velocidad, puede escapar a la fuerza de gravedad y seguir una órbita alrededor de la Tierra. 
 Hay varios factores que pueden afectar a la trayectoria orbital de un satélite, como la altitud y la inclinación de la órbita, la masa y el tamaño del satélite y los efectos de otros cuerpos celestes, como la Luna. La trayectoria orbital de un satélite es fundamental para su misión, y a menudo se optimiza para garantizar que el satélite pueda alcanzar los objetivos previstos minimizando el consumo de combustible y maximizando la eficiencia.
@@ -36,7 +40,11 @@ Hay varios factores que pueden afectar a la trayectoria orbital de un satélite,
 
 Como se menciono antes, los satélites geosíncronos describen órbitas sobre el ecuador, con la misma velocidad angular que la Tierra. En consecuencia, los satélites geosíncronos (llamados también estacionarios o geoestacionarios) parecen estar en un lugar fijo sobre un punto en la superficie terrestre. Debido a ello, no se necesita equipo especial de antenas de rastreo; las antenas de las estaciones terrestres sólo se apuntan al satélite en forma permanente. Un solo satélite geosíncrono de gran altitud puede proporcionar comunicaciones confiables aproximadamente a un 40% de la superficie terrestre. 
 
+![satélites geoestacionarios]({{ site.baseurl }}/images/2023-6-11/geoestacionaria.png)
+
 Los satélites geoestacionarios suelen situarse en una órbita circular a una altitud aproximada de 35.786 km y tienen un periodo de 12 horas, que es el mismo tiempo que tarda la Tierra en girar una vez sobre su eje. Los satélites geoestacionarios se utilizan principalmente para las comunicaciones, incluidas las emisiones de televisión, las emisiones de radio y las telecomunicaciones. También se utilizan para la observación de la Tierra y la vigilancia meteorológica. Debido a su gran altitud y a su órbita circular, los satélites geoestacionarios suelen lanzarse con un único vehículo lanzador, que coloca el satélite directamente en su órbita designada.
+
+![satélites en órbita]({{ site.baseurl }}/images/2023-6-11/sateliteOrbita.png)
 
 Los satélites permanecen en órbita como resultado del equilibrio entre las fuerzas centrífuga y gravitacional. Si un satélite viaja a demasiada velocidad, su fuerza centrífuga supera a la de la gravedad de la Tierra, y el satélite se sale de órbita y escapa al espacio. A menores velocidades, la fuerza centrífuga del satélite no es suficiente, y la gravedad tiende a atraer al vehículo hacia la Tierra. Es obvio que hay un equilibrio delicado entre aceleración, velocidad y distancia, con el que se balancean exactamente los efectos de las fuerzas centrífuga y gravitacional.
 
@@ -69,6 +77,8 @@ A veces, a una órbita terrestre geosíncrona se le denomina órbita de Clarke, 
 3. Tener 35888.371 km de altura sobre la Tierra
 4. Describir una revolución cada 24 horas. 
 
+![Cinturon de Clarke]({{ site.baseurl }}/images/2023-6-11/clarke.png)
+
 Al principio, por un acuerdo internacional, todos los satélites colocados en la órbita de Clarke deberían estar separados por cuando menos 2949928 km. Esta estipulación equivale a una separación angular de 4° o más, con lo que se limita la cantidad de vehículos satelitales en órbita geosíncrona a menos de 100. Sin embargo, hoy los acuerdos internacionales permiten que los satélites se coloquen mucho más cerca, entre sí. 
 
 ## Ventajas y desventajas de los satélites geosíncronos
@@ -90,6 +100,8 @@ Las ventajas y desventajas de los satélites geosíncronos son las siguientes:
 
 El 29 de octubre de 2008, despega al espacio, desde el centro de satélites de Xichang, ubicado en el sureste de China, el Satélite Simón Bolívar, el primero que pondría en órbita Venezuela para el desarrollo tecnológico y social de los pueblos. El satélite, conocido también con las siglas Venesat – 1, fue desarrollado gracias a la iniciativa del Comandante Hugo Chávez, con el objetivo de garantizarle a los venezolanos una tecnología de alta calidad.
 
+![Satélite Simón Bolívar]({{ site.baseurl }}/images/2023-6-11/simon.png)
+
 En ese sentido, con un impulso de 36.500 kilómetros de altura en una órbita geoestacionaria cedida por Uruguay, el Venesat- 1 amplía las telecomunicaciones de más de 12 millones de venezolanos y su países aliados. Según un balance general de Cantv para el años 2010, el satélite Simón Bolívar benefició a más de nueve millones de personas.
 
 Apesar de ello, luego de 12 años de servicio, el satélite Simón Bolívar no se encuentra en funcionamiento tras una falla que lo desplazó de su posición orbital.
@@ -100,6 +112,8 @@ Los satélites geoestacionarios se utilizan para una amplia gama de aplicaciones
 Así mismo, pueden utilizarse para la navegación, incluidos los servicios del sistema de posicionamiento global (GPS). Al medir la ubicación precisa y la velocidad de un receptor GPS, los satélites geoestacionarios pueden proporcionar información precisa sobre la posición de los objetos en la superficie de la Tierra, lo que los hace valiosos para fines de navegación en campos como la aviación, la navegación marítima y la topografía terrestre. 
 
 Los satélites geoestacionarios también pueden utilizarse para la vigilancia y previsión meteorológica, proporcionando información sobre la cobertura de nubes, la temperatura, la humedad y la presión atmosférica. Esta información puede utilizarse para avisar con antelación de fenómenos meteorológicos graves, como huracanes y tornados, y para apoyar las operaciones de socorro en caso de catástrofe. 
+
+![Orbita geoestacionaria]({{ site.baseurl }}/images/2023-6-11/geo.png)
 
 De esa misma forma, los satélites geoestacionarios se han utilizado en diversas aplicaciones de investigación científica, como la teledetección, la vigilancia del medio ambiente y la investigación climática. La capacidad de captar imágenes de alta resolución y otros datos desde la órbita geoestacionaria los ha convertido en una herramienta importante para estudiar procesos en la superficie de la Tierra, como los cambios en el uso del suelo, la degradación de los bosques y los patrones de circulación de los océanos. 
 
