@@ -46,6 +46,7 @@ Hay varios requisitos para los satélites en órbitas geoestacionarias. La prime
 
 ### Velocidad orbital de un satélite geosíncrono
 Dado que un satélite geosíncrono orbita la Tierra una vez cada 23 horas y 56 minutos, que es el mismo tiempo que tarda la Tierra en girar una vez sobre su eje, su velocidad con respecto a la superficie terrestre es nula. Sin embargo, dado que el satélite geosíncrono orbita una trayectoria circular alrededor de la Tierra, debe tener una velocidad orbital. Explicando, la circunferencia C de una órbita geosíncrona es: 
+
 `C = 2(42164 km) =  264790 km`
 
 Entonces, la velocidad tangencial o rectilínea v del satélite geosíncrono es 
@@ -85,7 +86,7 @@ Las ventajas y desventajas de los satélites geosíncronos son las siguientes:
 2. Los satélites geosíncronos están a gran altura e introducen retardos de propagación mucho mayores. El retardo de propagación de ida y vuelta entre dos estaciones terrestres, pasando por un satélite geosíncrono, es de 500 a 600 ms.
 3. Los satélites geosíncronos requieren mayores potencias de transmisión y receptores más sensibles, por las mayores distancias y mayores pérdidas en la trayectoria
 
-# SATELITE GEOSINCRÓNICO SIMÓN BOLÍVAR
+# SATELITE GEOESTACIONARIO SIMÓN BOLÍVAR
 
 El 29 de octubre de 2008, despega al espacio, desde el centro de satélites de Xichang, ubicado en el sureste de China, el Satélite Simón Bolívar, el primero que pondría en órbita Venezuela para el desarrollo tecnológico y social de los pueblos. El satélite, conocido también con las siglas Venesat – 1, fue desarrollado gracias a la iniciativa del Comandante Hugo Chávez, con el objetivo de garantizarle a los venezolanos una tecnología de alta calidad.
 

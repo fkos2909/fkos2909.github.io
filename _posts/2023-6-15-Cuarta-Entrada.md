@@ -27,9 +27,7 @@ El haz global permite al satélite iluminar una tercera parte del globo terráqu
 En esencia, un sistema satelital consiste en tres secciones básicas: un enlace de subida, un satélite transpondedor y un enlace de bajada. 
 
 ### Modelo de enlace de subida
-El enlace ascendente se refiere al proceso de transmisión de señales desde una estación terrestre a un satélite en el espacio. 
-
-El enlace ascendente es el primer paso en el proceso de comunicación e implica la codificación, modulación y transmisión de la señal desde la estación terrestre al satélite. A continuación, la señal se recibe y descodifica a bordo del satélite, y se realiza cualquier procesamiento de datos necesario. El enlace descendente es el proceso inverso, en el que el satélite transmite los datos de vuelta a la estación terrestre. 
+El enlace ascendente se refiere al proceso de transmisión de señales desde una estación terrestre a un satélite en el espacio. El enlace ascendente es el primer paso en el proceso de comunicación e implica la codificación, modulación y transmisión de la señal desde la estación terrestre al satélite. A continuación, la señal se recibe y descodifica a bordo del satélite, y se realiza cualquier procesamiento de datos necesario. El enlace descendente es el proceso inverso, en el que el satélite transmite los datos de vuelta a la estación terrestre. 
 
 Una estación transmisora terrestre suele consistir de un modulador de FI, un convertidor elevador de frecuencia de FI a microondas RF, un amplificador de alta potencia (HPA, de high-power amplifier) y algún medio de limitar la banda del espectro final de salida (es decir, un filtro pasabandas de salida). El modulador de FI convierte las señales de banda base que entran a una frecuencia intermedia modulada FM, PSK o QAM. El convertidor elevador, que es un mezclador y filtro pasabandas, convierte la FI a una RF adecuada de portadora. El HPA proporciona la sensibilidad adecuada de entrada y la potencia de salida para propagar la señal hasta el satélite transpondedor. 
 
