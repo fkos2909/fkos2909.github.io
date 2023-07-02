@@ -33,6 +33,7 @@ body {
   padding: 0 10px;
   width: 100%;
   opacity: 0.9;
+  border-radius: 0.5%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -157,6 +158,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  // background: #fffffff2;
 }
 
 .masthead {
@@ -278,8 +280,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px; //solid #ddd
+  border-bottom: 1px; //solid #ddd
   // background-color: $lightGray;
 }
 
