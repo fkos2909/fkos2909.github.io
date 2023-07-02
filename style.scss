@@ -22,6 +22,8 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
   background-image: url(static/img/back.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .container {
@@ -30,7 +32,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  
+  opacity: 0.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -278,7 +280,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  // background-color: $lightGray;
 }
 
 footer {
