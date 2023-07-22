@@ -50,13 +50,6 @@
                             ]
                         },
                         {
-                            "id": "5BHGvKAZ8FRmRS6PiwvNirM4VWnHkA",
-                            "title": "Trayectorias orbitales de los satélites",
-                            "imgs":[{
-                                "id":"Byv1wbGO7HhD5JyJTZPHL6yOuhlkMD", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/trayectorias.png", "name":"Trayectorias orbitales de los satélites"
-                            }]
-                        },
-                        {
                             "id": "Wqpl91DjXjiuX37hmbUnVMV7rqdkDk",
                             "title": "SATÉLITES GEOESTACIONARIOS",
                             "imgs": [{"id": "ywtVdp3rJAE1wjXz6vMXxRU0zlYnlp", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/geoestacionaria.png", "name":"Satélites geoestacionarios"}, {"id":"Qd8b8BpW0ljSXrgJbFSVUOsdoO07kj", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/cubesat.png", "name":"CubeSat", "year":"1980-1990"}]
@@ -69,7 +62,6 @@
                                 "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/simon.png", "name":"Satélite Simón Bolívar"
                             }]
                         }
-
                     ]
                 }
             },
@@ -84,9 +76,7 @@
                             "id": "I6K5pHELBU0NnfzVIGQyUmyrVTkqVM",
                             "title": "ÁNGULOS VISUALES DE UNA ANTENA",
                             "imgs":[
-                                {"id": "adry61DA3iRq9cC95YoGjWV8U7XH7H", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/ejemplo.png", "name":"Ángulos de visión"},
-                                {"id": "nWIsQBYzEgPvDu5ENPB9YOUMyBM8ey", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/elevacion.png", "name":"Ángulo de elevación"},
-                                {"id": "DSIkB9ZASymtlsTvpyEutmEW7yZq7c", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/azimut.png", "name":"Ángulo de azimut"}
+                                {"id": "adry61DA3iRq9cC95YoGjWV8U7XH7H", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/ejemplo.png", "name":"Ángulos de visión"}
                             ]
                         },
                         {
@@ -95,12 +85,6 @@
                             "imgs":[
                                 {
                                     "id":"XfB2AU7WCUnzz2rfgkcePem4d9ctIz", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/tiros.png", "name":"Satélites de comunicaciones giratorios"
-                                },
-                                {
-                                    "id":"7jg42PIZEyO05QzqzPj5z6F8PnsZT1", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/3ejes.png", "name":"Satélites de comunicaciones con estabilizadores de tres ejes"
-                                },
-                                {
-                                    "id":"liVPO3f5pNTA2ZrazS35dyB8KMqSxh", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/separacion.png", "name":"Separación espacial"
                                 }
                             ]
                         },
@@ -108,8 +92,7 @@
                             "id": "e6SRPV2Z0HlqGOqmjZV3EcOA7DrAOA",
                             "title": "STARLINK",
                             "imgs": [
-                                {"id": "gA0XDgIgF61aeHjxm2ViVA1cjmNw7g", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/logo.png", "name":"Starlink"}, {"id":"n5AtqfVc4YNbGciI9SFGDrc5HbOkNG", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/starlink1.png", "name":"Red Starlink"},
-                                {"id":"yutzj0vuzgpN53XxGahtq3QeUTswa4", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/red.png", "name":"Red Starlink"}
+                                {"id":"n5AtqfVc4YNbGciI9SFGDrc5HbOkNG", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/starlink1.png", "name":"Red Starlink"}
                             ]
                         }
                     ]
