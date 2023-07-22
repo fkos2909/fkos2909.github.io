@@ -24,7 +24,7 @@ Otros tipos de órbitas son la **órbita terrestre alta (HEO)**, que está por e
 
 La mayoría de los satélites de comunicaciones están en órbita geosíncrona. Los satélites geosíncronos o geoestacionarios son aquellos que giran en círculo con velocidad angular igual a la de la Tierra. Tienen un tiempo de órbita aproximado de **24 horas**, igual que la Tierra; así, los satélites geosíncronos parecen estacionarios, porque quedan en una *posición fija* con respecto a determinado punto en la Tierra. 
 
-### Trayectoreias orbitales de los satélites
+### Trayectorias orbitales de los satélites
 Las trayectorias orbitales de los satélites describen la trayectoria que sigue un satélite alrededor de la Tierra. Estas trayectorias pueden ser circulares, elípticas u otras formas más complejas. Las tres trayectorias que puede seguir un satélite al girar en torno a la Tierra: **inclinada, ecuatorial y polar**. 
 
 - Las **órbitas inclinadas** son virtualmente todas, excepto las que van directamente arriba del ecuador o directamente arriba de los polos Norte y Sur.

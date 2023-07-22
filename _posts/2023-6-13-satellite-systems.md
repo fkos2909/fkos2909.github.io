@@ -8,7 +8,7 @@ abstract: La representación geográfica del patrón de radiación de la antena 
 
 La representación geográfica del patrón de radiación de la antena de un satélite se llama **huella**, o a veces **mapa de huella**. En esencia, una huella de un satélite es la zona, sobre la superficie terrestre, desde donde el satélite puede recibir o hacia donde puede transmitir. La forma de la huella de un satélite depende de su trayectoria orbital, su altura y el tipo de antena que se use. Mientras más alto esté el satélite, podrá abarcar más superficie terrestre.
 
-![representación geográfica del patrón de radiación de la antena de un satélite]({{ site.baseurl }}/images/2023-6-13/huella.png)
+![Representación geográfica del patrón de radiación de la antena de un satélite]({{ site.baseurl }}/images/2023-6-13/huella.png)
 
 Las antenas satelitales de enlace de bajada (o downlink, término utilizado para representar el enlace entre un satélite y la Tierra) emiten señales en frecuencias de microondas, hacia una región geográfica seleccionada, dentro de la línea de vista del satélite. **La potencia efectiva transmitida se llama potencia irradiada efectiva isotrópica** (**EIRP**, de effective isotropic radiated power) y se expresa, en general, en dBm o dBW. Se traza un mapa de huella dibujando líneas continuas entre todos los puntos que tengan EIRP iguales. Un mapa característico de huella es, en esencia, una serie de curvas de nivel sobre un mapa geográfico de la región servida. Podría haber distintos mapas de huella para cada haz de radiación de cada satélite de comunicaciones. 
 

@@ -57,7 +57,7 @@ Los satélites geosíncronos deben **compartir un espacio y un espectro de frecu
 
 En general, se requiere una separación espacial de 3° a 6°, que depende de estas variables. 
 
-![eparación espacial]({{ site.baseurl }}/images/2023-6-12/separacion.png)
+![Separación espacial]({{ site.baseurl }}/images/2023-6-12/separacion.png)
 
 Las frecuencias de portadora más comunes que se usan en comunicaciones vía satélite son las bandas de 6/4 y de 14/12 GHz. El primer número es la frecuencia de enlace de subida (estación terrestre a transpondedor), y el segundo es la frecuencia de enlace de bajada (transpondedor a estación terrestre). Se usan frecuencias distintas de enlace de subida y de bajada para evitar que haya radiación de pérdida. 
 
