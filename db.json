@@ -5,9 +5,6 @@
                     "id": "1F0eexzOqrE2mJnUYqqcUsT9yEoVJv",
                     "title": "COMUNICACIONES SATELITALES",
                     "abstract": "Un satélite de comunicaciones es un tipo de satélite artificial que se utiliza para transmitir y recibir señales de telecomunicaciones, como televisión, radio, teléfono y datos. Pueden colocarse en distintas órbitas en función de la aplicación y el uso previsto, y pueden clasificarse en varios tipos.",
-                    "imgs":[
-                        {"id": "VUsTexNsS1FoUEsLVc6jG14bukkRVV", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/communication-satellite.jpg"}
-                    ],
                     "subtitles": [
                         {
                             "id": "6L9Ct5H1hBKL72rOhNrymub4FsfXSy",
@@ -24,13 +21,11 @@
                         },
                         {
                             "id": "SgnTAeUSQZNY66NyAJrn9wXkeaWldm",
-                            "title": "LEYES DE KEPLER",
-                            "imgs":[]
+                            "title": "LEYES DE KEPLER"
                         },
                         {
                             "id": "uRSRAw4GA4WQ2yU6icRVraIB2nrhGo",
-                            "title": "NANOSATÉLITES",
-                            "imgs": [{"id": "uz0ReJTTcTeMhiu3I1I1aPiAcHZIX8", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/nanosatelite1.png", "name":"Nanosatelite", "year": "1980-1990"}, {"id":"Qd8b8BpW0ljSXrgJbFSVUOsdoO07kj", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/cubesat.png", "name":"CubeSat", "year":"1980-1990"}]
+                            "title": "NANOSATÉLITES"
                         }
                     ]
                 }
@@ -40,27 +35,18 @@
                     "id": "GuYJS8tYKMQuKvHgZr5sBAZmZbOIPA",
                     "title": "SATÉLITES GEOESTACIONARIOS, TRAYECTORIAS Y ORBITAS DE SATÉLITES",
                     "abstract": "La mayoría de los satélites que se han mencionado hasta ahora son orbitales, que son asíncronos. Los satélites asíncronos giran en torno a la Tierra en órbitas elípticas o circulares.  En una órbita circular, la velocidad de rotación es constante; sin embargo, en órbitas elípticas la velocidad depende de la altura del satélite sobre la Tierra. Es mayor cuando el satélite está cerca de la Tierra que cuando está más lejos.",
-                    "imgs":[],
                     "subtitles": [
                         {
                             "id": "80epKkZNLhhQEAHL8YEPqes6RCmQ9o",
-                            "title": "ÓRBITAS SATELITALES",
-                            "imgs":[
-                                {"id": "ZsLdiChIdWdm9B0HOXPf0DwFDshMmb", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/orbitas.png", "name":"Órbitas de satélites"}
-                            ]
+                            "title": "ÓRBITAS SATELITALES"
                         },
                         {
                             "id": "Wqpl91DjXjiuX37hmbUnVMV7rqdkDk",
-                            "title": "SATÉLITES GEOESTACIONARIOS",
-                            "imgs": [{"id": "ywtVdp3rJAE1wjXz6vMXxRU0zlYnlp", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/geoestacionaria.png", "name":"Satélites geoestacionarios"}, {"id":"Qd8b8BpW0ljSXrgJbFSVUOsdoO07kj", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/cubesat.png", "name":"CubeSat", "year":"1980-1990"}]
+                            "title": "SATÉLITES GEOESTACIONARIOS"
                         },
                         {
                             "id":"ycI6oWUPQtPqbnRYX579yuTADykyj8",
-                            "title":"SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR",
-                            "imgs": [{
-                                "id":"UoEKGt22ip7WXWuuC0gyJySUu5oWPI",
-                                "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/simon.png", "name":"Satélite Simón Bolívar"
-                            }]
+                            "title":"SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR"
                         }
                     ]
                 }
@@ -70,30 +56,18 @@
                     "id": "5SfPPp8pLqNLBk5etM1Yvr1HARbQJo",
                     "title": "ÁNGULOS VISUALES, POSICIONAMIENTO Y FRECUENCIA DE SATELITES",
                     "abstract": "Los ángulos visuales de una antena son una consideración importante en el diseño y la implementación de sistemas de comunicación inalámbricos, ya que pueden afectar significativamente al área de cobertura y a la eficacia de la señal transmitida.",
-                    "imgs":[],
                     "subtitles": [
                         {
                             "id": "I6K5pHELBU0NnfzVIGQyUmyrVTkqVM",
-                            "title": "ÁNGULOS VISUALES DE UNA ANTENA",
-                            "imgs":[
-                                {"id": "adry61DA3iRq9cC95YoGjWV8U7XH7H", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/ejemplo.png", "name":"Ángulos de visión"}
-                            ]
+                            "title": "ÁNGULOS VISUALES DE UNA ANTENA"
                         },
                         {
                             "id": "nW5OE1y1N7tHYikmBFUdedHO2mEtbs",
-                            "title": "POSICIONAMIENTO Y FRECUENCIAS DE SATÉLITES",
-                            "imgs":[
-                                {
-                                    "id":"XfB2AU7WCUnzz2rfgkcePem4d9ctIz", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/tiros.png", "name":"Satélites de comunicaciones giratorios"
-                                }
-                            ]
+                            "title": "POSICIONAMIENTO Y FRECUENCIAS DE SATÉLITES"
                         },
                         {
                             "id": "e6SRPV2Z0HlqGOqmjZV3EcOA7DrAOA",
-                            "title": "STARLINK",
-                            "imgs": [
-                                {"id":"n5AtqfVc4YNbGciI9SFGDrc5HbOkNG", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-12/starlink1.png", "name":"Red Starlink"}
-                            ]
+                            "title": "STARLINK"
                         }
                     ]
                 }
@@ -103,35 +77,22 @@
                     "id": "Ar1yQ2MmzP2Y95dYDMgiB7HA3nhZgk",
                     "title": "HUELLAS, MODELOS DE ENLACE Y PARÁMETROS DE SISTEMAS SATELITALES",
                     "abstract": "La representación geográfica del patrón de radiación de la antena de un satélite se llama huella, o a veces mapa de huella. En esencia, una huella de un satélite es la zona, sobre la superficie terrestre, desde donde el satélite puede recibir o hacia donde puede transmitir.",
-                    "imgs":[],
                     "subtitles": [
                         {
                             "id": "KVCck44w1qU8dbCuUuWwuuPbQamFI3",
-                            "title": "PATRON DE RADIACIÓN DE ANTENAS SATELITALES: HUELLAS",
-                            "imgs":[
-                                {"id": "6Oec0LuHCNFf86AWJ9A2QUhoLFMm7x", "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-13/huella.png", "name":"Representación geográfica del patrón de radiación de la antena de un satélite"}
-                            ]
+                            "title": "PATRON DE RADIACIÓN DE ANTENAS SATELITALES: HUELLAS"
                         },
                         {
                             "id": "7DbOC2cujaqte5gIFrVLDLGuD7EoEF",
-                            "title": "MODELOS DE ENLACE DE SISTEMAS SATELITALES",
-                            "imgs":[
-                                {
-                                    "id":"gcf8Wvv4PWn8nxjRDSSA6Qpq9mb064", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-13/links.png", "name":"Modelo de enlace"
-                                }
-                            ]
+                            "title": "MODELOS DE ENLACE DE SISTEMAS SATELITALES"
                         },
                         {
                             "id": "SZsA6l2gNamdKcifLDCiXAayG8KLef",
-                            "title": "PARÁMETROS DEL SISTEMA DE SATELITES",
-                            "imgs": []
+                            "title": "PARÁMETROS DEL SISTEMA DE SATELITES"
                         },
                         {
                             "id": "F2PJflWmVUFkMgMYcBYlJYSXrOw65X",
-                            "title": "SATÉLITES MULTIMISIÓN",
-                            "imgs": [
-                                {"id":"GUEu8n2UFZZPrAxogYqg53udsiwY2W", "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-13/coper.png", "name":"Copernicus Sentinel-2"}
-                            ]
+                            "title": "SATÉLITES MULTIMISIÓN"
                         }
                     ]
                 }
