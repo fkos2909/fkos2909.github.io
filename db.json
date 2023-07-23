@@ -38,7 +38,8 @@
                     "subtitles": [
                         {
                             "id": "80epKkZNLhhQEAHL8YEPqes6RCmQ9o",
-                            "title": "ÓRBITAS SATELITALES"
+                            "title": "ÓRBITAS SATELITALES",
+                            "orbits":["Órbita geosíncrona (GEO)", "Órbita terrestre baja (LEO)", "Órbita terrestre media (MEO)"]
                         },
                         {
                             "id": "Wqpl91DjXjiuX37hmbUnVMV7rqdkDk",
@@ -46,7 +47,8 @@
                         },
                         {
                             "id":"ycI6oWUPQtPqbnRYX579yuTADykyj8",
-                            "title":"SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR"
+                            "title":"SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR",
+                            "img":"https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/simon.png"
                         }
                     ]
                 }
@@ -59,11 +61,13 @@
                     "subtitles": [
                         {
                             "id": "I6K5pHELBU0NnfzVIGQyUmyrVTkqVM",
-                            "title": "ÁNGULOS VISUALES DE UNA ANTENA"
+                            "title": "ÁNGULOS VISUALES DE UNA ANTENA",
+                            "angles":["Ángulo de elevación", "Ángulo de azimut"]
                         },
                         {
                             "id": "nW5OE1y1N7tHYikmBFUdedHO2mEtbs",
-                            "title": "POSICIONAMIENTO Y FRECUENCIAS DE SATÉLITES"
+                            "title": "POSICIONAMIENTO Y FRECUENCIAS DE SATÉLITES",
+                            "types":["Satélites de comunicaciones con estabilizadores de tres ejes", "Satélites de comunicaciones giratorios"]
                         },
                         {
                             "id": "e6SRPV2Z0HlqGOqmjZV3EcOA7DrAOA",
@@ -80,19 +84,24 @@
                     "subtitles": [
                         {
                             "id": "KVCck44w1qU8dbCuUuWwuuPbQamFI3",
-                            "title": "PATRON DE RADIACIÓN DE ANTENAS SATELITALES: HUELLAS"
+                            "title": "PATRON DE RADIACIÓN DE ANTENAS SATELITALES: HUELLAS",
+                            "haces":["Haces locales y zonales", "Haces hemisféricos", "Haces globales"]
                         },
                         {
                             "id": "7DbOC2cujaqte5gIFrVLDLGuD7EoEF",
-                            "title": "MODELOS DE ENLACE DE SISTEMAS SATELITALES"
+                            "title": "MODELOS DE ENLACE DE SISTEMAS SATELITALES",
+                            "models":["Modelo de enlace de subida", "Modelo de enlace de bajada", "Enlaces cruzados"]
+
                         },
                         {
                             "id": "SZsA6l2gNamdKcifLDCiXAayG8KLef",
-                            "title": "PARÁMETROS DEL SISTEMA DE SATELITES"
+                            "title": "PARÁMETROS DEL SISTEMA DE SATELITES",
+                            "parameters":["Pérdida por reducción", "Potencia de transmisión y energía de bit", "Potencia efectiva irradiada isotrópicamente"]
                         },
                         {
                             "id": "F2PJflWmVUFkMgMYcBYlJYSXrOw65X",
-                            "title": "SATÉLITES MULTIMISIÓN"
+                            "title": "SATÉLITES MULTIMISIÓN",
+                            "example":["Copernicus Sentinel-2"]
                         }
                     ]
                 }
