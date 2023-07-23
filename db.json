@@ -6,6 +6,7 @@
         "title": "COMUNICACIONES SATELITALES",
         "abstract": "Un satélite de comunicaciones es un tipo de satélite artificial que se utiliza para transmitir y recibir señales de telecomunicaciones, como televisión, radio, teléfono y datos. Pueden colocarse en distintas órbitas en función de la aplicación y el uso previsto, y pueden clasificarse en varios tipos.",
         "post_date":"20-06-2023",
+        "author":"Fátima Ospina",
         "subtitles": [
           {
             "id": "6L9Ct5H1hBKL72rOhNrymub4FsfXSy",
@@ -72,6 +73,7 @@
         "title": "SATÉLITES GEOESTACIONARIOS, TRAYECTORIAS Y ORBITAS DE SATÉLITES",
         "abstract": "La mayoría de los satélites que se han mencionado hasta ahora son orbitales, que son asíncronos. Los satélites asíncronos giran en torno a la Tierra en órbitas elípticas o circulares.  En una órbita circular, la velocidad de rotación es constante; sin embargo, en órbitas elípticas la velocidad depende de la altura del satélite sobre la Tierra. Es mayor cuando el satélite está cerca de la Tierra que cuando está más lejos.",
         "post_date":"11-06-2023",
+        "author":"Fátima Ospina",
         "subtitles": [
           {
             "id": "80epKkZNLhhQEAHL8YEPqes6RCmQ9o",
@@ -100,6 +102,7 @@
         "title": "ÁNGULOS VISUALES, POSICIONAMIENTO Y FRECUENCIA DE SATELITES",
         "abstract": "Los ángulos visuales de una antena son una consideración importante en el diseño y la implementación de sistemas de comunicación inalámbricos, ya que pueden afectar significativamente al área de cobertura y a la eficacia de la señal transmitida.",
         "post_date":"12-06-2023",
+        "author":"Fátima Ospina",
         "subtitles": [
           {
             "id": "I6K5pHELBU0NnfzVIGQyUmyrVTkqVM",
@@ -127,6 +130,7 @@
         "title": "HUELLAS, MODELOS DE ENLACE Y PARÁMETROS DE SISTEMAS SATELITALES",
         "abstract": "La representación geográfica del patrón de radiación de la antena de un satélite se llama huella, o a veces mapa de huella. En esencia, una huella de un satélite es la zona, sobre la superficie terrestre, desde donde el satélite puede recibir o hacia donde puede transmitir.",
         "post_date":"13-06-2023",
+        "author":"Fátima Ospina",
         "subtitles": [
           {
             "id": "KVCck44w1qU8dbCuUuWwuuPbQamFI3",
