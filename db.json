@@ -14,43 +14,43 @@
             "imgs": [
               {
                 "id": "NXmt68fQiWWVaNsgceIybKkCZWVG1i",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/sputnik1.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/sputnik1.png",
                 "name": "Sputnik I",
                 "year": "1957"
               },
               {
                 "id": "J09MLaQcHnBngxhp5rYyAlWdOMbBhU",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/explore1.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/explore1.png",
                 "name": "Explorer I",
                 "year": "1957"
               },
               {
                 "id": "0cICOwWlxeJkTOWCcaMhiVKN5ZxtAB",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/score1.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/score1.png",
                 "name": "Score I",
                 "year": "1958"
               },
               {
                 "id": "V3M9CcBkDx7O2ZcrqU6X5oy83bXhib",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/Telstar1.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/Telstar1.png",
                 "name": "Telstar I",
                 "year": "1962"
               },
               {
                 "id": "mHN2gsxeElcjuxc5rhJNMFnV1mlUlh",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/syncom2.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/syncom2.png",
                 "name": "Syncom II",
                 "year": "1963"
               },
               {
                 "id": "nSQfSuAfwTM8XIkbaYscvb9MnlHSDV",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/intelsat1.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/intelsat1.png",
                 "name": "Intelsat I",
                 "year": "1965"
               },
               {
                 "id": "IAkL7Cqm24fHAKE1ECJ9oo2EIjaBma",
-                "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-10/jamesWebb.png",
+                "img": "https://fkos2909.github.io/images/2023-6-10/jamesWebb.png",
                 "name": "James Webb",
                 "year": "2021"
               }
@@ -91,7 +91,7 @@
           {
             "id": "ycI6oWUPQtPqbnRYX579yuTADykyj8",
             "title": "SATÉLITE GEOESTACIONARIO SIMÓN BOLÍVAR",
-            "img": "https://github.com/fkos2909/fkos2909.github.io/blob/087c31415dc0f6789786ccb77ffaaaa84c0838c2/images/2023-6-11/simon.png"
+            "img": "https://fkos2909.github.io/images/2023-6-11/simon.png"
           }
         ]
       }
